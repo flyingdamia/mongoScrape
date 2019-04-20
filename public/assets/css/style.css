@@ -1,0 +1,31 @@
+body {
+  background-image: url("/assets/images/background.jpeg");
+  padding-top: 70px;
+}
+#scrape {
+  margin: 8px 0px;
+}
+
+#navbar {
+  background-color: rgb(253, 241, 251);
+}
+
+.container .jumbotron {
+  background-color: rgb(253, 241, 251);
+}
+
+.deleteNote {
+  display: inline-block;
+}
+
+.previousNotes {
+  display: inline-block;
+  width: 90%;
+}
+
+.panel-body {
+  background-color: rgb(253, 241, 251);
+}
+.pink {
+  background-color: rgba(253, 206, 245, 0.938);
+}
